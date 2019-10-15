@@ -1,4 +1,4 @@
-GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01
+GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD0
 Id,Id2,Geography,Estimate; Gini Index,Margin of Error; Gini Index
 0500000US01001,01001,"Autauga County, Alabama",0.4501,0.0391
 0500000US01003,01003,"Baldwin County, Alabama",0.4618,0.0100
@@ -1802,7 +1802,7 @@ Id,Id2,Geography,Estimate; Gini Index,Margin of Error; Gini Index
 0500000US35007,35007,"Colfax County, New Mexico",0.4602,0.0227
 0500000US35009,35009,"Curry County, New Mexico",0.4665,0.0307
 0500000US35011,35011,"De Baca County, New Mexico",0.4473,0.0399
-0500000US35013,35013,"Doña Ana County, New Mexico",0.4924,0.0132
+0500000US35013,35013,"DoÃ±a Ana County, New Mexico",0.4924,0.0132
 0500000US35015,35015,"Eddy County, New Mexico",0.4238,0.0155
 0500000US35017,35017,"Grant County, New Mexico",0.4580,0.0280
 0500000US35019,35019,"Guadalupe County, New Mexico",0.4583,0.0360
